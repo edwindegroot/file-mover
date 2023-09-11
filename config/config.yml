@@ -1,0 +1,9 @@
+images: ['png', 'jpg', 'jpeg']
+documents: ['doc', 'pdf']
+videos: []
+music: ['mp3']
+source-folder: '/home/edwin/Downloads'
+images-target: '/home/edwin/Pictures/'
+documents-target: '/home/edwin/Documents/'
+videos-target: '/home/edwin/Videos/'
+music-target: '/home/edwin/Music/'
